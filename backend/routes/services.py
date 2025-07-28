@@ -4,6 +4,12 @@ from models.service import Service, ServiceCreate, ServiceUpdate
 from typing import List
 import os
 import logging
+from dotenv import load_dotenv
+from pathlib import Path
+
+# Load environment variables
+ROOT_DIR = Path(__file__).parent.parent
+load_dotenv(ROOT_DIR / '.env')
 
 # Setup logging
 logger = logging.getLogger(__name__)
