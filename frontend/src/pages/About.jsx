@@ -208,7 +208,7 @@ const About = () => {
                 </p>
               </div>
               <div>
-                <Heart className="h-8 w-8 text-blue-600 mb-3" />
+                <Heart className="h-8 w-8 text-emerald-600 mb-3" />
                 <h3 className="font-semibold text-gray-900 mb-2">Nachhaltigkeit</h3>
                 <p className="text-gray-600 text-sm">
                   Umweltfreundliche Produkte und ressourcenschonende Verfahren
