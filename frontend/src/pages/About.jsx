@@ -243,7 +243,7 @@ const About = () => {
               asChild 
               size="lg" 
               variant="outline"
-              className="border-white text-white hover:bg-white hover:text-blue-600"
+              className="border-white text-white hover:bg-white hover:text-emerald-600"
             >
               <Link to="/services">Unsere Leistungen</Link>
             </Button>
