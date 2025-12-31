@@ -263,7 +263,7 @@ const Contact = () => {
                   const Icon = info.icon;
                   return (
                     <div key={index} className="flex items-start space-x-3">
-                      <div className="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center flex-shrink-0">
+                      <div className="w-10 h-10 bg-emerald-600 rounded-lg flex items-center justify-center flex-shrink-0">
                         <Icon className="h-5 w-5 text-white" />
                       </div>
                       <div>
