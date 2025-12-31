@@ -183,7 +183,7 @@ const Homepage = () => {
               const Icon = feature.icon;
               return (
                 <div key={index} className="text-center">
-                  <div className="mx-auto w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center mb-4">
+                  <div className="mx-auto w-12 h-12 bg-emerald-600 rounded-lg flex items-center justify-center mb-4">
                     <Icon className="h-6 w-6 text-white" />
                   </div>
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">{feature.title}</h3>
