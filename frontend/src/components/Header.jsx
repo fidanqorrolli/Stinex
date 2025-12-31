@@ -85,11 +85,11 @@ const Header = () => {
                   {item.name}
                 </Link>
               ))}
-              <div className="flex items-center text-blue-600 pt-2">
+              <div className="flex items-center text-emerald-600 pt-2">
                 <Phone className="h-4 w-4 mr-2" />
                 <span className="font-semibold">+49 123 456 789</span>
               </div>
-              <Button asChild className="bg-blue-600 hover:bg-blue-700 w-full">
+              <Button asChild className="bg-emerald-600 hover:bg-emerald-700 w-full">
                 <Link to="/contact" onClick={() => setIsMenuOpen(false)}>
                   Kostenlos anfragen
                 </Link>
