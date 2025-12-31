@@ -206,7 +206,7 @@ const Services = () => {
         </div>
 
         {/* CTA */}
-        <div className="text-center bg-blue-600 rounded-xl p-12">
+        <div className="text-center bg-emerald-600 rounded-xl p-12">
           <h2 className="text-3xl font-bold text-white mb-4">
             Bereit für professionelle Sauberkeit?
           </h2>
