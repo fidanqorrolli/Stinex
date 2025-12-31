@@ -116,7 +116,7 @@ const Homepage = () => {
               asChild 
               variant="outline" 
               size="lg"
-              className="border-blue-600 text-blue-600 hover:bg-blue-50 text-lg px-8 py-3 h-auto"
+              className="border-emerald-600 text-emerald-600 hover:bg-emerald-50 text-lg px-8 py-3 h-auto"
             >
               <Link to="/services">Unsere Leistungen</Link>
             </Button>
