@@ -268,7 +268,7 @@ const Contact = () => {
                       </div>
                       <div>
                         <h3 className="font-semibold text-gray-900">{info.title}</h3>
-                        <p className="text-blue-600 font-medium">{info.content}</p>
+                        <p className="text-emerald-600 font-medium">{info.content}</p>
                         <p className="text-sm text-gray-500">{info.description}</p>
                       </div>
                     </div>
