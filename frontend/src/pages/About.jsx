@@ -201,7 +201,7 @@ const About = () => {
                 </p>
               </div>
               <div>
-                <Shield className="h-8 w-8 text-blue-600 mb-3" />
+                <Shield className="h-8 w-8 text-emerald-600 mb-3" />
                 <h3 className="font-semibold text-gray-900 mb-2">Sicherheit</h3>
                 <p className="text-gray-600 text-sm">
                   Vollversichert und geprüfte Mitarbeiter für Ihr Vertrauen
