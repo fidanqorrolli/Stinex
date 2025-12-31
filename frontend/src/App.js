@@ -11,7 +11,7 @@ import Contact from "./pages/Contact";
 
 function App() {
   return (
-    <div className="App min-h-screen bg-gradient-to-br from-blue-50 to-white">
+    <div className="App min-h-screen bg-gradient-to-br from-emerald-50 to-teal-50">
       <BrowserRouter>
         <Header />
         <main className="min-h-[calc(100vh-200px)]">
