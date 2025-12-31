@@ -194,7 +194,7 @@ const About = () => {
             </p>
             <div className="grid md:grid-cols-3 gap-8 text-left">
               <div>
-                <Award className="h-8 w-8 text-blue-600 mb-3" />
+                <Award className="h-8 w-8 text-emerald-600 mb-3" />
                 <h3 className="font-semibold text-gray-900 mb-2">Qualität</h3>
                 <p className="text-gray-600 text-sm">
                   Kontinuierliche Weiterbildung und modernste Reinigungstechniken
