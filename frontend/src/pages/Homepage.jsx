@@ -153,7 +153,7 @@ const Homepage = () => {
                     <CardDescription className="text-base">
                       {service.description}
                     </CardDescription>
-                    <p className="text-sm text-blue-600 font-semibold mt-2">
+                    <p className="text-sm text-emerald-600 font-semibold mt-2">
                       {service.pricing}
                     </p>
                   </CardContent>
